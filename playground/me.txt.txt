@@ -1,5 +1,0 @@
-{{#Bhola}}
-Name: Bhola Nath mandal
-Skills: Html,CSS,JS
-Email : bholanathm810@gmail.com
-{{/Bhola}}
